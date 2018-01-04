@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SmartWallet.Shop.iml" filepath="$PROJECT_DIR$/SmartWallet.Shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MobileWallet.Shop.iml" filepath="$PROJECT_DIR$/MobileWallet.Shop.iml" />
     </modules>
   </component>
 </project>

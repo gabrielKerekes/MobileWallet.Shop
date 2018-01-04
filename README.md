@@ -1,2 +1,2 @@
-# SmartWallet.Shop
-SmartWallet MQTT Merchant repository
+# MobileWallet.Shop
+MobileWallet MQTT Merchant repository
