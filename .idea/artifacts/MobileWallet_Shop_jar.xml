@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MobileWallet.Shop.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MobileWallet_Shop_jar</output-path>
+    <root id="archive" name="MobileWallet.Shop.jar">
+      <element id="module-output" name="MobileWallet.Shop" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dist/lib/activation.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dist/lib/javax.mail-1.5.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dist/lib/javaee.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dist/lib/javax.json-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dist/lib/org.eclipse.paho.client.mqttv3-1.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/org.eclipse.paho.client.mqttv3-1.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/activation.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/javax.mail-1.5.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/javax.json-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/javaee.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
