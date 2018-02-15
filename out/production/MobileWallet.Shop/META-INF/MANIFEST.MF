@@ -1,3 +1,7 @@
 Manifest-Version: 1.0
+Class-Path: activation.jar javax.mail-1.5.6.jar javaee.jar javax.json-
+ 1.0.jar org.eclipse.paho.client.mqttv3-1.1.0.jar org.eclipse.paho.cli
+ ent.mqttv3-1.1.0.jar activation.jar javax.mail-1.5.6.jar javax.json-1
+ .0.jar javaee.jar
 Main-Class: com.mobilewallet.shop.merchant.Main
 
