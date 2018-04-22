@@ -58,7 +58,7 @@ public class ConfigMessage extends MQTTMessage{
                 obj.getInt("port");
         connOpts.setServerURIs(uris);
         try {
-            connOpts.setSocketFactory(HttpsCertificateUtils.getSslContextWithTrustedCertificate().getSocketFactory());
+            connOpts.setSocketFactory(HttpsCertificateUtils.getSslContextWithTrustedCertificate());
         } catch (Exception e) {
             e.printStackTrace();
         }
